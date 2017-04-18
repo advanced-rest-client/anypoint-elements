@@ -16,7 +16,8 @@
   "dependencies": {
     "anypoint-validator-behavior": "advanced-rest-client/anypoint-validator-behavior#^0.1.2",
     "anypoint-validatable-behavior": "advanced-rest-client/anypoint-validatable-behavior#^0.1.1",
-    "anypoint-input": "advanced-rest-client/anypoint-input#^0.1.1"
+    "anypoint-input": "advanced-rest-client/anypoint-input#^0.1.1",
+    "anypoint-checkbox": "advanced-rest-client/anypoint-checkbox#^0.1.1"
   },
   "homepage": "https://github.com/advanced-rest-client/anypoint-elements",
   "authors": [

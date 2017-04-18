@@ -19,7 +19,7 @@
     "anypoint-behaviors": "advanced-rest-client/anypoint-behaviors#^0.1.1",
     "anypoint-input": "advanced-rest-client/anypoint-input#^0.1.1",
     "anypoint-checkbox": "advanced-rest-client/anypoint-checkbox#^0.1.1",
-    "anypoint-text-field": "advanced-rest-client/anypoint-text-field#^0.1.1"
+    "anypoint-text-field": "advanced-rest-client/anypoint-text-field#^0.1.2"
   },
   "homepage": "https://github.com/advanced-rest-client/anypoint-elements",
   "authors": [

@@ -1,6 +1,6 @@
 {
   "name": "anypoint-elements",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A set of visual elements for Anypoint web components.",
   "keywords": [
     "web-components",
@@ -14,7 +14,7 @@
     "url": "git@github.com:advanced-rest-client/anypoint-elements.git"
   },
   "dependencies": {
-    
+    "anypoint-validator-behavior": "advanced-rest-client/anypoint-validator-behavior#^0.1.2"
   },
   "homepage": "https://github.com/advanced-rest-client/anypoint-elements",
   "authors": [

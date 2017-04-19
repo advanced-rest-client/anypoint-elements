@@ -1,3 +1,13 @@
+<a name="0.1.14"></a>
+## [0.1.14](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.13...v0.1.14) (2017-04-19)
+
+
+### New
+
+* [CI] Added new elements. ([3d551990594316e7028a8a99a38685ecf84ce9f4](https://github.com/advanced-rest-client/anypoint-elements/commit/3d551990594316e7028a8a99a38685ecf84ce9f4))
+
+
+
 <a name="0.1.13"></a>
 ## [0.1.13](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.12...v0.1.13) (2017-04-19)
 

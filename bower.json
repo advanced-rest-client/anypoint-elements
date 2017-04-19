@@ -20,7 +20,8 @@
     "anypoint-input": "advanced-rest-client/anypoint-input#^0.1.1",
     "anypoint-checkbox": "advanced-rest-client/anypoint-checkbox#^0.1.1",
     "anypoint-text-field": "advanced-rest-client/anypoint-text-field#^0.1.3",
-    "anypoint-icons": "advanced-rest-client/anypoint-icons#^0.1.1"
+    "anypoint-icons": "advanced-rest-client/anypoint-icons#^0.1.1",
+    "anypoint-radio-button": "advanced-rest-client/anypoint-radio-button#^0.1.1"
   },
   "homepage": "https://github.com/advanced-rest-client/anypoint-elements",
   "authors": [

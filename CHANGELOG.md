@@ -1,3 +1,13 @@
+<a name="0.1.15"></a>
+## [0.1.15](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.14...v0.1.15) (2017-04-20)
+
+
+### New
+
+* Added anypoint styles ([a368f579125228df92a930bbe5cb8e4d2a9c6f9d](https://github.com/advanced-rest-client/anypoint-elements/commit/a368f579125228df92a930bbe5cb8e4d2a9c6f9d))
+
+
+
 <a name="0.1.14"></a>
 ## [0.1.14](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.13...v0.1.14) (2017-04-19)
 

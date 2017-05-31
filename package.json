@@ -1,7 +1,7 @@
 {
   "name": "anypoint-elements",
   "version": "0.1.9",
-  "license": "Apache-2.0 OR CC-BY-4.0",
+  "license": "All rights reserved to Mulesoft Inc.",
   "description": "A set of visual elements for Anypoint web components.",
   "devDependencies": {
     "conventional-github-releaser": "^1.1.1",

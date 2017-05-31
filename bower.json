@@ -19,7 +19,7 @@
     "anypoint-behaviors": "advanced-rest-client/anypoint-behaviors#^0.1.1",
     "anypoint-input": "advanced-rest-client/anypoint-input#^0.1.3",
     "anypoint-checkbox": "advanced-rest-client/anypoint-checkbox#^0.1.5",
-    "anypoint-text-field": "advanced-rest-client/anypoint-text-field#^0.1.3",
+    "anypoint-text-field": "advanced-rest-client/anypoint-text-field#^0.1.4",
     "anypoint-icons": "advanced-rest-client/anypoint-icons#^0.1.11",
     "anypoint-radio-button": "advanced-rest-client/anypoint-radio-button#^0.1.2",
     "anypoint-radio-group": "advanced-rest-client/anypoint-radio-group#^0.1.1",

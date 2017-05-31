@@ -1,3 +1,183 @@
+<a name="0.1.27"></a>
+## [0.1.27](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.26...v0.1.27) (2017-04-20)
+
+
+### New
+
+* [CI] Added new elements. ([a2d5afcc5ebd0b4255d25415fab1ccb473ab13bb](https://github.com/advanced-rest-client/anypoint-elements/commit/a2d5afcc5ebd0b4255d25415fab1ccb473ab13bb))
+
+
+
+<a name="0.1.26"></a>
+## [0.1.26](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.25...v0.1.26) (2017-04-20)
+
+
+### New
+
+* [CI] Added new elements. ([83798da22bcbef31fb62da3d6aa17cda2b9042bf](https://github.com/advanced-rest-client/anypoint-elements/commit/83798da22bcbef31fb62da3d6aa17cda2b9042bf))
+
+
+
+<a name="0.1.25"></a>
+## [0.1.25](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.24...v0.1.25) (2017-04-20)
+
+
+### New
+
+* [CI] Added new elements. ([4b6f0767e621859141cfd737ec43f093210778e1](https://github.com/advanced-rest-client/anypoint-elements/commit/4b6f0767e621859141cfd737ec43f093210778e1))
+
+
+
+<a name="0.1.24"></a>
+## [0.1.24](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.23...v0.1.24) (2017-04-20)
+
+
+### New
+
+* [CI] Added new elements. ([1c79d1cb915270a765a9c6810070dffc47486934](https://github.com/advanced-rest-client/anypoint-elements/commit/1c79d1cb915270a765a9c6810070dffc47486934))
+
+
+
+<a name="0.1.23"></a>
+## [0.1.23](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.22...v0.1.23) (2017-04-20)
+
+
+### New
+
+* [CI] Added new elements. ([f368d5df580b6313712c73d3ff6c697edf8ec230](https://github.com/advanced-rest-client/anypoint-elements/commit/f368d5df580b6313712c73d3ff6c697edf8ec230))
+
+
+
+<a name="0.1.22"></a>
+## [0.1.22](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.21...v0.1.22) (2017-04-20)
+
+
+### New
+
+* [CI] Added new elements. ([6b3c2fa55668105e2c3ac6768a215f49a3306613](https://github.com/advanced-rest-client/anypoint-elements/commit/6b3c2fa55668105e2c3ac6768a215f49a3306613))
+
+
+
+<a name="0.1.21"></a>
+## [0.1.21](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.20...v0.1.21) (2017-04-20)
+
+
+### New
+
+* [CI] Added new elements. ([20d00c60be612547e2041248a7e8d7f030d67fa9](https://github.com/advanced-rest-client/anypoint-elements/commit/20d00c60be612547e2041248a7e8d7f030d67fa9))
+
+
+
+<a name="0.1.20"></a>
+## [0.1.20](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.19...v0.1.20) (2017-04-20)
+
+
+### New
+
+* [CI] Added new elements. ([ac5cb51d3c30e865e9c759a6e1fe373a429d5dd7](https://github.com/advanced-rest-client/anypoint-elements/commit/ac5cb51d3c30e865e9c759a6e1fe373a429d5dd7))
+
+
+
+<a name="0.1.19"></a>
+## [0.1.19](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.18...v0.1.19) (2017-04-20)
+
+
+### New
+
+* [CI] Added new elements. ([4f49bf2af74d35249097ab00694ce2407fa141b5](https://github.com/advanced-rest-client/anypoint-elements/commit/4f49bf2af74d35249097ab00694ce2407fa141b5))
+
+
+
+<a name="0.1.18"></a>
+## [0.1.18](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.17...v0.1.18) (2017-04-20)
+
+
+### New
+
+* [CI] Added new elements. ([d52ade482d00281706a27e2a70f8606bf3be1329](https://github.com/advanced-rest-client/anypoint-elements/commit/d52ade482d00281706a27e2a70f8606bf3be1329))
+
+
+
+<a name="0.1.17"></a>
+## [0.1.17](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.16...v0.1.17) (2017-04-20)
+
+
+### New
+
+* [CI] Added new elements. ([c1aa2bbdb19fac69879e5d36b91ae11c5302f15d](https://github.com/advanced-rest-client/anypoint-elements/commit/c1aa2bbdb19fac69879e5d36b91ae11c5302f15d))
+
+
+
+<a name="0.1.16"></a>
+## [0.1.16](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.15...v0.1.16) (2017-04-20)
+
+
+### New
+
+* [CI] Added new elements. ([8c9a2d50cf358f1f536ebcbae05d8ccc6bf8d72f](https://github.com/advanced-rest-client/anypoint-elements/commit/8c9a2d50cf358f1f536ebcbae05d8ccc6bf8d72f))
+
+
+
+<a name="0.1.15"></a>
+## [0.1.15](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.14...v0.1.15) (2017-04-20)
+
+
+### New
+
+* Added anypoint styles ([a368f579125228df92a930bbe5cb8e4d2a9c6f9d](https://github.com/advanced-rest-client/anypoint-elements/commit/a368f579125228df92a930bbe5cb8e4d2a9c6f9d))
+
+
+
+<a name="0.1.14"></a>
+## [0.1.14](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.13...v0.1.14) (2017-04-19)
+
+
+### New
+
+* [CI] Added new elements. ([3d551990594316e7028a8a99a38685ecf84ce9f4](https://github.com/advanced-rest-client/anypoint-elements/commit/3d551990594316e7028a8a99a38685ecf84ce9f4))
+
+
+
+<a name="0.1.13"></a>
+## [0.1.13](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.12...v0.1.13) (2017-04-19)
+
+
+### New
+
+* [CI] Added new elements. ([763c6cfb6fc1e8bad7e0589cfb78a733afeded0e](https://github.com/advanced-rest-client/anypoint-elements/commit/763c6cfb6fc1e8bad7e0589cfb78a733afeded0e))
+
+
+
+<a name="0.1.12"></a>
+## [0.1.12](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.11...v0.1.12) (2017-04-19)
+
+
+### New
+
+* [CI] Added new elements. ([d50d94f563b3bd83878a94ce40aa847389765a27](https://github.com/advanced-rest-client/anypoint-elements/commit/d50d94f563b3bd83878a94ce40aa847389765a27))
+
+
+
+<a name="0.1.11"></a>
+## [0.1.11](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.10...v0.1.11) (2017-04-19)
+
+
+### New
+
+* [CI] Added new elements. ([79060ccdf31f7e72d38116a97206cc7e5f017498](https://github.com/advanced-rest-client/anypoint-elements/commit/79060ccdf31f7e72d38116a97206cc7e5f017498))
+
+
+
+<a name="0.1.10"></a>
+## [0.1.10](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.9...v0.1.10) (2017-04-19)
+
+
+### New
+
+* [CI] Added new elements. ([f02f723d6b37daa5bfcdefe701ecb2628ad8ca42](https://github.com/advanced-rest-client/anypoint-elements/commit/f02f723d6b37daa5bfcdefe701ecb2628ad8ca42))
+
+
+
 <a name="0.1.9"></a>
 ## [0.1.9](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.8...v0.1.9) (2017-04-18)
 

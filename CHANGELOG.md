@@ -1,3 +1,54 @@
+<a name="0.1.34"></a>
+## [0.1.34](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.33...v0.1.34) (2017-05-31)
+
+
+### New
+
+* [CI] Added new elements. ([05670402fd9f5bc1ad4b77702d9a73f2d43847cf](https://github.com/advanced-rest-client/anypoint-elements/commit/05670402fd9f5bc1ad4b77702d9a73f2d43847cf))
+* [CI] Added new elements. ([90758c7f2e4b3377109567fda241373b7d95ae98](https://github.com/advanced-rest-client/anypoint-elements/commit/90758c7f2e4b3377109567fda241373b7d95ae98))
+
+
+
+<a name="0.1.33"></a>
+## [0.1.33](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.32...v0.1.33) (2017-05-31)
+
+
+### New
+
+* [CI] Added new elements. ([ec3249d9a373a85fe1fb7dfc891abf0a284cfaf1](https://github.com/advanced-rest-client/anypoint-elements/commit/ec3249d9a373a85fe1fb7dfc891abf0a284cfaf1))
+
+
+
+<a name="0.1.32"></a>
+## [0.1.32](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.31...v0.1.32) (2017-05-31)
+
+
+### New
+
+* [CI] Added new elements. ([cadcac816673062d36c1ede03878c0b4bfb8dd13](https://github.com/advanced-rest-client/anypoint-elements/commit/cadcac816673062d36c1ede03878c0b4bfb8dd13))
+
+
+
+<a name="0.1.31"></a>
+## [0.1.31](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.30...v0.1.31) (2017-05-31)
+
+
+### New
+
+* [CI] Added new elements. ([aece929d60e53ba989efb8f366907a0f211d86e2](https://github.com/advanced-rest-client/anypoint-elements/commit/aece929d60e53ba989efb8f366907a0f211d86e2))
+
+
+
+<a name="0.1.30"></a>
+## [0.1.30](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.29...v0.1.30) (2017-05-31)
+
+
+### New
+
+* [CI] Added new elements. ([4e4c598f808b24cb21f4476d8ccf2ef4c078b39e](https://github.com/advanced-rest-client/anypoint-elements/commit/4e4c598f808b24cb21f4476d8ccf2ef4c078b39e))
+
+
+
 <a name="0.1.29"></a>
 ## [0.1.29](https://github.com/advanced-rest-client/anypoint-elements/compare/0.1.28...v0.1.29) (2017-05-31)
 

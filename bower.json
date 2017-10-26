@@ -24,7 +24,8 @@
     "anypoint-radio-button": "advanced-rest-client/anypoint-radio-button#^0.1.2",
     "anypoint-radio-group": "advanced-rest-client/anypoint-radio-group#^0.1.1",
     "anypoint-password-input": "advanced-rest-client/anypoint-password-input#^0.1.3",
-    "anypoint-styles": "advanced-rest-client/anypoint-styles#^0.1.3"
+    "anypoint-styles": "advanced-rest-client/anypoint-styles#^0.1.3",
+    "paper-checkbox": "advanced-rest-client/paper-checkbox#^1.9.1"
   },
   "homepage": "https://github.com/advanced-rest-client/anypoint-elements",
   "authors": [

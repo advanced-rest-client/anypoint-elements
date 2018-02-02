@@ -1,6 +1,6 @@
 {
   "name": "anypoint-elements",
-  "version": "0.1.52",
+  "version": "0.1.53",
   "license": "All rights reserved to Mulesoft Inc.",
   "description": "A set of visual elements for Anypoint web components.",
   "devDependencies": {
